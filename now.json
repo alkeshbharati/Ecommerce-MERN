@@ -1,7 +1,5 @@
 {
-  "name": "marketfresh",
-  "alias": "marketfresh.now.sh",
-  "version": 1,
+  "version": 2,
   "env": {
     "MONGO_SRV": "mongodb+srv://alkesh:bharati@market-jxkgt.mongodb.net/test?retryWrites=true&w=majority",
     "JWT_SECRET": "estates3118",
