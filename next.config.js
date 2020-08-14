@@ -2,8 +2,8 @@
 module.exports = {
   env: {
     MONGO_SRV: "mongodb+srv://alkesh:bharati@market-jxkgt.mongodb.net/test?retryWrites=true&w=majority",
-    JWT_SECRET: "<insert-jwt-secret>",
+    JWT_SECRET: "estates3118",
     CLOUDINARY_URL: "https://api.cloudinary.com/v1_1/dpazx12fh/upload",
-    STRIPE_SECRET_KEY: "<insert-stripe-secret-key>"
+    STRIPE_SECRET_KEY: "sk_test_wP00hFHx3KObdSFklyu1eFaU00Iq3uw5eJ"
   }
 };
