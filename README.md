@@ -18,6 +18,7 @@ Online market built using MERN stack, Stripe API and React framework Next.js
 
 ## Deployment
 
-For Deployment i have used Vercel which is part of next framework. For more you can checkout their site.
+For Deployment i have used Vercel which is part of next framework. For more you can checkout their site.<br />
+URL - https://ecommerce-mern-five.vercel.app/login
 
 
