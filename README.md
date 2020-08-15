@@ -3,7 +3,7 @@ Online market built using MERN stack, Stripe and React framework Next.js
 
 ### Getting Started
 
-1.Clone this repo with git clone https://github.com/alkeshbharati/ecommerce-MERN.git. 
+1.Clone this repo with git clone https://github.com/alkeshbharati/ecommerce-MERN.git.<br /> 
 2.Install dependencies (npm install or yarn install). 
 3.Go to MongoDB atlas and create a new (free) database. 
 4.Copy the Database URI to connect using the Mongo Driver. 
