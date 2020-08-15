@@ -1,5 +1,5 @@
 # Ecommerce built using MERN
-Online market built using MERN stack, Stripe and React framework Next.js
+Online market built using MERN stack, Stripe API and React framework Next.js
 
 ### Getting Started
 
